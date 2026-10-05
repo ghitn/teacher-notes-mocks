@@ -141,6 +141,7 @@ html, body {
   letter-spacing: 0.16em;
   color: #ffffff;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 /* ==========================================================================
@@ -969,6 +970,7 @@ html, body {
     letter-spacing: 0.16em;
     color: #ffffff;
     text-transform: uppercase;
+    white-space: nowrap;
   }
 
   .mobile-hero-block {

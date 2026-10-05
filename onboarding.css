@@ -136,6 +136,7 @@ html, body {
   letter-spacing: 0.18em;
   color: #ffffff;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 
 /* Top-Right Account Link */

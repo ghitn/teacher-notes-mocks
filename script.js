@@ -233,7 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const regEmail = document.getElementById('regEmailInput').value.trim();
 
     registerModal.classList.remove('active');
-    showToast('Account created! Welcome to Teachers Notes.', 'success');
+    showToast('Account created! Welcome to AI Decoder Academy.', 'success');
 
     // Initialize new user onboarding state
     localStorage.setItem('aida_onboarding_completed', 'false');
